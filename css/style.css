@@ -1,0 +1,37 @@
+body{
+    padding: 30px;
+}
+.nav-ul{
+    margin-top: 30px;
+    list-style-type: none;
+}
+.nav-li{
+    margin-top: 3px;
+}
+.nav-a{
+    color: #3d58a6;
+    font-size: 22px;
+    font-weight: 500;
+}
+.nav-a span{
+    color: orange;
+}
+.banner{
+    margin-top: 30px;
+}
+.footer-ul{
+    margin-top: 30px;
+}
+.footer-li{
+    display: inline-block;
+}
+.footer-li i{
+    color: #3D58A6;
+}
+.line{
+    width: 1px;
+    height: 30px;
+    background: #3D58A6;
+    display: inline-block;
+    margin: auto 30px;
+}
